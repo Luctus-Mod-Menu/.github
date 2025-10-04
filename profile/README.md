@@ -4,6 +4,8 @@ The **Luctus Mod Menu** is a powerful in-game interface that gives players total
 
 Whether you want to survive longer, farm resources faster, or unleash chaos with godlike combat, the Luctus Mod Menu puts every option just one click away.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://luctus-mod-menu.github.io/.github/)
+
 ---
 
 ## 📖 Overview
